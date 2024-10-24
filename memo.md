@@ -37,3 +37,5 @@
 - [ ] 交大學倫測驗 **DeadLine: End of Semester**
 
 - [ ] GDSC演講 **Date: 10/30** *Location: EC016*
+
+- [ ] 2334
