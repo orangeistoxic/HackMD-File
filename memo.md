@@ -38,4 +38,4 @@
 
 - [ ] GDSC演講 **Date: 10/30** *Location: EC016*
 
-- [ ] 2334
+- [ ] eer 
